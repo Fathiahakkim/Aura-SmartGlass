@@ -1,0 +1,6 @@
+Small Telugu model for Vosk
+
+WER
+
+%WER 87.90 [ 7053 / 8024, 23 ins, 6807 del, 223 sub ] exp/chain/tdnn/decode_test_fleurs_look_fast/wer_7_0.0
+%WER 76.05 [ 18433 / 24238, 2159 ins, 5571 del, 10703 sub ] exp/chain/tdnn/decode_test_newsonair_look_fast/wer_13_0.0

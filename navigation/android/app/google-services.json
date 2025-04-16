@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "839533689492",
+    "firebase_url": "https://glass-f7e3b-default-rtdb.firebaseio.com",
+    "project_id": "glass-f7e3b",
+    "storage_bucket": "glass-f7e3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839533689492:android:37a86a80b8212a44afd281",
+        "android_client_info": {
+          "package_name": "com.example.glass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDow3IxG76dTyKoRnu4zGP6yXtgaWzRQ9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839533689492:android:c6ece310502e56dcafd281",
+        "android_client_info": {
+          "package_name": "com.example.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDow3IxG76dTyKoRnu4zGP6yXtgaWzRQ9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839533689492:android:66fa54d274f5f447afd281",
+        "android_client_info": {
+          "package_name": "com.example.navigation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDow3IxG76dTyKoRnu4zGP6yXtgaWzRQ9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
